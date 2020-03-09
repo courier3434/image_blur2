@@ -48,5 +48,4 @@ image = Image.new([
   [0, 0, 0, 0]
 ])
 
-image.blur
 image.output_image
